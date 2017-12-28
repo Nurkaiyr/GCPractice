@@ -1,0 +1,7 @@
+C:\Users\едиген\source\repos\GCHW\GCHW\obj\Debug\GCHW.csprojResolveAssemblyReference.cache
+C:\Users\едиген\source\repos\GCHW\GCHW\obj\Debug\GCHW.csproj.CoreCompileInputs.cache
+C:\Users\едиген\source\repos\GCHW\GCHW\bin\Debug\GCHW.exe.config
+C:\Users\едиген\source\repos\GCHW\GCHW\bin\Debug\GCHW.exe
+C:\Users\едиген\source\repos\GCHW\GCHW\bin\Debug\GCHW.pdb
+C:\Users\едиген\source\repos\GCHW\GCHW\obj\Debug\GCHW.exe
+C:\Users\едиген\source\repos\GCHW\GCHW\obj\Debug\GCHW.pdb
